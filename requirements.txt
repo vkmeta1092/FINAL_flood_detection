@@ -6,3 +6,4 @@ geopandas
 shapely
 requests
 scipy
+beautifulsoup4
